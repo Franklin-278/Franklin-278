@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate with Companies, organizations to solve their problems as a lawyer using data
 - My skills involve the use of Excel, PowerBi, and Python Basic's
 - my trainings cuts across interning with Dahel Techies and Beez Academy  
-- you can reach me on..[/https://www.linkedin.com/in/okolie-franklin-9168ba24a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxCu8scPSQveE%2FxERoO8qqQ%3D%3D]
+- you can reach me on..[https://www.linkedin.com/in/okolie-franklin-9168ba24a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxCu8scPSQveE%2FxERoO8qqQ%3D%3D]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
