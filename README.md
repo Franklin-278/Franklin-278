@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Franklin-278
-- 👀 I’m interested in  data analyticsentry roles 
-- 🌱 I’m currently learning data analytics after having practiced law for 7years
-- 💞️ I’m looking to collaborate on dahel techies 
+- 👋 Hi, I’m Franklin Okolie
+- 👀 I’m interested in  data analytics entry roles 
+- 🌱 I’m currently learning data analytics after having practised law for 7years
+-    I'm a legal analyst who uses data to  law to improve efficiency, decision-making, and strategic planning within the legal field. 
+- 💞️ I’m looking to collaborate with Companies, organizations to solve their problems as a lawyer using data 
 - you can reach me on../https://www.linkedin.com/in/okolie-franklin-9168ba24a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxCu8scPSQveE%2FxERoO8qqQ%3D%3D
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
