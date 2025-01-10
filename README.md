@@ -2,7 +2,9 @@
 - 👀 I’m interested in  data analytics entry roles 
 - 🌱 I’m currently learning data analytics after having practised law for 7years
 -    I'm a legal analyst who uses data to  law to improve efficiency, decision-making, and strategic planning within the legal field. 
-- 💞️ I’m looking to collaborate with Companies, organizations to solve their problems as a lawyer using data 
+- 💞️ I’m looking to collaborate with Companies, organizations to solve their problems as a lawyer using data
+- My skills involve the use of Excel, PowerBi, and Python Basic's
+- my trainings cuts across interning with Dahel Techies and Beez Academy  
 - you can reach me on../https://www.linkedin.com/in/okolie-franklin-9168ba24a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxCu8scPSQveE%2FxERoO8qqQ%3D%3D
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
